@@ -26,11 +26,11 @@ Bandeirantes Online
 Balls
 
 SMA
-![GitHub Logo](/images/sma.png)
+![GitHub Logo](/images/sma1.webp)
 
-![GitHub Logo](/images/sma1.png)
+![GitHub Logo](/images/sma2.webp)
 
-![GitHub Logo](/images/sma2.png)
+![GitHub Logo](/images/sma3.webp)
 
 
 
