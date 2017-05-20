@@ -2,8 +2,8 @@
 
 Ludom Dare 38
 
-![img](/images/ld38_2.gif){: width="500px"}
 ![img](/images/ld.gif){: width="260px"}
+![img](/images/ld38_2.gif){: width="500px"}
 
 Sao Miguel Arcanjo
 
@@ -39,17 +39,17 @@ Kinect Simulator
 
 UENP
 
-![img](/images/uenp.jpeg){: width="500px"}
+![img](/images/uenp.jpeg){: width="400px"}
 
 Virtual Manipulative
 
-Passaros.com
-  website
-  app
+![img](/images/virtual.gif){: width="400px"}
 
-![img](/images/pass0.webp){: width="100px"}
-![img](/images/pass1.webp){: width="260px"}
-![img](/images/pass2.webp){: width="260px"}
+Passaros.com
+
+![img](/images/pas0.webp){: width="100px"}
+![img](/images/pas1.webp){: width="260px"}
+![img](/images/pas2.webp){: width="260px"}
   
 clicnet.com
 
