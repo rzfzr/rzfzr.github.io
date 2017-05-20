@@ -28,7 +28,7 @@ Balls
 <img src="/images/octa1.PNG" width="200" height="400" />
 <img src="url.to/balls2.gif"  height="48" width="48" >
 
-![teste](/images/sma1.webp){:height="36px" width="36px"}
+![teste](/images/sma1.webp){: width="200px"}
 
 SMA
 
