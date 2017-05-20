@@ -1,7 +1,7 @@
 ## "Finished" Projects
 
 
-### -> Ludom Dare 38 <-
+### Ludom Dare 38 {: style="text-align: center"}
 
 ![img](/images/ld.gif){: width="260px"}
 ![img](/images/ld38_2.gif){: width="500px"}
