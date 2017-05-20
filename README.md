@@ -16,8 +16,7 @@
 ![img](/images/sma3.webp){: width="260px"}
 
 
-### ![img](/images/pas0.webp){: width="100px"} Passaros.com 
-
+### ![img](/images/pas0.webp){: width="100px"} Passaros.com
 {: style="text-align: center"}
 
 
