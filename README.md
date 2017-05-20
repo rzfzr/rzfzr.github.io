@@ -25,8 +25,7 @@ Bandeirantes Online
 
 Balls
 
-<img src="/images/sma1.webp" width="200" height="400" />
-
+<img src="/images/sma1.webp" width="200" />
 
 SMA
 ![GitHub Logo](/images/sma1.webp)
