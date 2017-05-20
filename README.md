@@ -2,8 +2,8 @@
 
 Ludom Dare 38
 
-![img](/images/ld38_2.gif){: width="260px"}
-![img](/images/ld38_1.PNG){: width="500px"}
+![img](/images/ld38_2.gif){: width="500px"}
+![img](/images/ld.gif){: width="260px"}
 
 Sao Miguel Arcanjo
 
@@ -29,17 +29,17 @@ Neway
 AntiOctagon
 
 ![img](/images/octa1.PNG){: width="260px"}
-![img](/images/octa2.gif){: width="260px"}
+![img](/images/octa2.gif){: width="500px"}
 ![img](/images/octa3.PNG){: width="260px"}
 
 
 Kinect Simulator
 
-![img](/images/sim.JPG){: width="260px"}
+![img](/images/sim.JPG){: width="500px"}
 
 UENP
 
-![img](/images/uenp.jpeg){: width="260px"}
+![img](/images/uenp.jpeg){: width="500px"}
 
 Virtual Manipulative
 
@@ -57,6 +57,6 @@ Bandeirantes Online
 
 Balls
 
-![img](/images/balls1.PNG){: width="260px"}
-![img](/images/balls2.gif){: width="260px"}
+![img](/images/balls1.PNG){: width="400px"}
+![img](/images/balls2.gif){: width="400px"}
 
