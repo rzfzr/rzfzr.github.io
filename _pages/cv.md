@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Computer Science degree at UENP (Universidade Estadual do Norte do Parana) 2015 - in progress
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Occupation: Web and Application Developer
+  * Company: ClicNet
+  * Period: 2012-2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Occupation: English Teacher
+  * Company: Washington Academy
+  * Period: 2012-2015
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spoken and Written Languages
+  * English
+  * Portuguese
+  * Italian
+  * French
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages
+  * C#
+  * C++
+  * Java
+  * JavaScript
+  * PHP
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Application and Game Development
+  * Unity
+  * Android Studio
+  * Xamarin
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Web
+  * HTML
+  * CSS
+  * Wordpress
+    
+    
