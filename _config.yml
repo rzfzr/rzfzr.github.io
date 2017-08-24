@@ -79,13 +79,13 @@ analytics:
 # Site Author
 author:
   name             : "rzfzr"
-  avatar           : "pic.png"
+  avatar           : "profile.jpg"
   bio              : "Big passion for all technologic and mechanic things, experience in mobile applications and games Computer Science student."
   location         : "Brazil"
   employer         :
   googlescholar    :
   email            : "rafael@itapecerica.com.br"
-  uri              : "https://www.urionlinejudge.com.br/judge/pt/profile/50002"
+  uri              : # ahahah dumbass   "https://www.urionlinejudge.com.br/judge/pt/profile/50002"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,8 +101,8 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/1417670/rzfzr"
-  steam            : "http://steamcommunity.com/id/rzfzr/"  
+  stackoverflow    : "rzfzr"
+  steam            : "rzfzr"  
   tumblr           :
   twitter          : 
   vine             :
