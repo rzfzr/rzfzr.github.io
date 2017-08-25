@@ -18,7 +18,8 @@ Skills
 ======
 
 
-<iframe src="../files/html/Chart (1).html" frameborder="0" id="mainPageBody" width="375px" height="425px"></iframe>
+<iframe src="../files/html/Chart (2).html" frameborder="0" id="mainPageBody" width="375px" height="425px"></iframe>
+<iframe src="../files/html/Chart (3).html" frameborder="0" id="mainPageBody" width="375px" height="425px"></iframe>
 
 
 * Spoken and Written Languages
