@@ -17,6 +17,10 @@ Education
 Skills
 ======
 
+
+<iframe src="../files/html/Chart (1).html" frameborder="0" id="mainPageBody" width="350px" height="400px"></iframe>
+
+
 * Spoken and Written Languages
   * English
   * Portuguese
