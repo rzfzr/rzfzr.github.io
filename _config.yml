@@ -1,25 +1,25 @@
 # Site settings
-title: Creative - Start Bootstrap theme
-tagline: Your Favorite Source of Free Bootstrap Themes
+title: Rafael Figueira Goncalves
+tagline: Rafael Figueira Goncalves
 author: 
-first_button_text: 'Find out more'
-first_button_url: '#about'
+first_button_text: 'Check out some previous projects'
+first_button_url: '#portfolio'
 header_img: /img/header.jpg
-home_menu_text: Start Bootstrap
-description: Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!
+home_menu_text: Rafael Figueira Goncalves
+description: Solving Problems
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # Theme customization
-primary: '#F05F40'
+primary: '#004a99'
 dark: '#222'
 
 # Contact details
-email: 
+email: clicnet.com.br@gmail.com
 telephone_number: 
-whatsapp_number: 
+whatsapp_number: 43998051625
 twitter_username: 
-github_username: volny
+github_username: rzfzr
 instagram_username: 
 facebook_username: 
 linkedin_username: 
