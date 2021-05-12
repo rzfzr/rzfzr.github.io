@@ -4,7 +4,7 @@ tagline: Rafael Figueira Goncalves
 author:
 first_button_text: 'Check out some previous projects'
 first_button_url: '#portfolio'
-header_img: /img/header.jpg
+header_img: 
 home_menu_text: Rafael Figueira Goncalves
 description: Solving Problems
 baseurl: "" # the subpath of your site, e.g. /blog/
