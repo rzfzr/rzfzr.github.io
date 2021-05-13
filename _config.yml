@@ -12,7 +12,8 @@ url: "" # the base hostname & protocol for your site
 
 # Theme customization
 primary: '#004a99'
-dark: '#222'
+dark: '#fff'
+# dark: '#222'
 
 # Contact details
 email: clicnet.com.br@gmail.com

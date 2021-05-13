@@ -258,7 +258,7 @@ header {
 }
 
 .service-box {
-    max-width: 400px;
+    max-width: 300px;
     margin: 50px auto 0;
 
     @media (min-width: 992px) {
@@ -270,12 +270,37 @@ header {
     }
 }
 
+.service-box .fa{
+//   position: absolute;
+
+    // top: calc(50% - 150px);
+    // left: calc(50% - 150px);
+    width: 56px;
+    height: 56px;
+  border-radius: 50%;
+
+}
+
+
+.service-box:hover .fa,
+.service-box:focus .fa {
+    box-shadow:
+      inset 0 0 40px #fff,
+    0 0 50px #fff,
+}
+
+.container-fluid{
+    margin:10px;
+}
+
+
 .portfolio-box {
+    
     position: relative;
     display: block;
     max-width: 650px;
-    margin: 0 auto;
-
+    margin:5px;
+    // margin: 0 auto;
     .portfolio-box-caption {
         color: white;
         opacity: 0;
